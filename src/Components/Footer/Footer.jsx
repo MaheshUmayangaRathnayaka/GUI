@@ -26,9 +26,9 @@ const Footer = () => {
           <div className="footer-column">
             <h3>Contact Us</h3>
             <ul>
-              <li>Email: support@vehiclerentals.com</li>
-              <li>Phone: +1 234 567 890</li>
-              <li>Address: 123 Rent-a-Car Blvd, Cityville, USA</li>
+              <li>Email: support@riderent.com</li>
+              <li>Phone: +94 123456789</li>
+              <li>Address: 123, RideRent Lane, Kurunegala, Sri Lanka</li>
             </ul>
           </div>
 

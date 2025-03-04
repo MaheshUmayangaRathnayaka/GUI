@@ -7,28 +7,24 @@ const VehiclesPage = () => {
       id: 1,
       name: 'Sedan',
       description: 'Comfortable and fuel-efficient cars for city rides.',
-      image: 'https://via.placeholder.com/300x200',
       price: '$50/day',
     },
     {
       id: 2,
       name: 'SUV',
       description: 'Spacious and powerful vehicles for family trips.',
-      image: 'https://via.placeholder.com/300x200',
       price: '$80/day',
     },
     {
       id: 3,
-      name: 'Motorbike',
-      description: 'Compact and fun rides for quick commutes.',
-      image: 'https://via.placeholder.com/300x200',
-      price: '$30/day',
+      name: 'Convertible',
+      description: 'Stylish and fun rides for a luxurious experience.',
+      price: '$90/day',
     },
     {
       id: 4,
-      name: 'Truck',
+      name: 'Pickup Truck',
       description: 'Heavy-duty vehicles for transporting goods.',
-      image: 'https://via.placeholder.com/300x200',
       price: '$100/day',
     },
   ];
@@ -40,7 +36,6 @@ const VehiclesPage = () => {
       <div className="vehicles-grid">
         {vehicles.map((vehicle) => (
           <div key={vehicle.id} className="vehicle-card">
-            <img src={vehicle.image} alt={vehicle.name} className="vehicle-image" />
             <h2>{vehicle.name}</h2>
             <p>{vehicle.description}</p>
             <p className="vehicle-price">{vehicle.price}</p>

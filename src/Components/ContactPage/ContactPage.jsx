@@ -9,9 +9,9 @@ const ContactPage = () => {
       <div className="contact-grid">
         <div className="contact-info">
           <h2>Contact Information</h2>
-          <p><strong>Phone:</strong> +1 (123) 456-7890</p>
+          <p><strong>Phone:</strong> +94 123456789</p>
           <p><strong>Email:</strong> support@riderent.com</p>
-          <p><strong>Address:</strong> 1234 RideRent Lane, Car City, TX 12345</p>
+          <p><strong>Address:</strong> 123, RideRent Lane, Kurunegala, Sri Lanka</p>
         </div>
         <form className="contact-form">
           <h2>Send Us a Message</h2>

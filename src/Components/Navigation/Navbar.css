@@ -73,6 +73,10 @@ body {
 .signup-btn {
   background-color: #00bcd4;
   color: #ffffff;
+  height: 20px;
+  width: 80px;
+  text-wrap: nowrap;
+
 }
 
 .signup-btn:hover {
