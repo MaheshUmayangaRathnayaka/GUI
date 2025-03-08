@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\usr\\desktop\\wpdfappdb\\wpdfappdb\\wpdfappdb\\wpdfappdb\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\usr\\desktop\\wpdfappdb\\wpdfappdb\\wpdfappdb\\wpdfappdb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\usr\\desktop\\wpdfappdb\\wpdfappdb\\wpdfappdb\\wpdfappdb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\usr\\desktop\\wpdfappdb\\wpdfappdb\\wpdfappdb\\wpdfappdb\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\usr\\desktop\\wpdfappdb\\wpdfappdb\\wpdfappdb\\wpdfappdb\\dialogbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\dialogbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\usr\\desktop\\wpdfappdb\\wpdfappdb\\wpdfappdb\\wpdfappdb\\dialogbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\dialogbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 896,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\DialogBox.xaml.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\DialogBox.xaml.cs",
+              "ToolTip": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\DialogBox.xaml.cs",
+              "RelativeToolTip": "WpdfAppDb\\DialogBox.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAzczMzMwMwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:01:36.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DialogBox.xaml",
+              "DocumentMoniker": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\DialogBox.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\DialogBox.xaml",
+              "ToolTip": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\DialogBox.xaml",
+              "RelativeToolTip": "WpdfAppDb\\DialogBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T06:01:29.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\ProductDbContext.cs",
+              "RelativeToolTip": "WpdfAppDb\\ProductDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:07:35.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpdfAppDb\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:09:54.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml",
+              "RelativeToolTip": "WpdfAppDb\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T03:09:54.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Product.cs",
+              "ToolTip": "C:\\Users\\usr\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "RelativeToolTip": "WpdfAppDb\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:53:51.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
